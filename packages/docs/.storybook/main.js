@@ -25,7 +25,14 @@ const config = {
     options: {},
   },
   docs: {
-    defaultName: 'Documentação',
+    defaultName: "Documentação",
+  },
+  viteFinal: (config, { configType }) => {
+    if (configType === "PRODUCTION") {
+      config.base = "/05-design-system/";
+    }
+
+    return config;
   },
 };
 export default config;
