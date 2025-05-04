@@ -1,0 +1,3 @@
+import{j as t}from"./index-eW7pncv0.js";import{useMDXComponents as e}from"./index-B8rYRX2K.js";import{M as s,T as i}from"./index-CdJvfab5.js";import{T as m}from"./tokens-grid-B2mj8DS9.js";import{f as p}from"./index-FQKkaq7x.js";import"./index-D4lIrffr.js";import"./index-DsJinFGm.js";import"./iframe-C8_VQF3e.js";import"./index-CXQShRbs.js";import"./index-DrFu-skq.js";function r(o){return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Font Sizes"}),`
+`,t.jsx(i,{children:"Font Sizes"}),`
+`,t.jsx(m,{tokens:p})]})}function h(o={}){const{wrapper:n}={...e(),...o.components};return n?t.jsx(n,{...o,children:t.jsx(r,{...o})}):r()}export{h as default};

@@ -1,0 +1,1 @@
+import{g as o}from"./index-ewNU8M5M.js";import{R as t}from"./index-D4lIrffr.js";import"./index-eW7pncv0.js";import"./index-DsJinFGm.js";const l={parameters:{controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}},backgrounds:{default:"dark"}},decorators:[r=>(o(),t.createElement(r))]};export{l as default};
