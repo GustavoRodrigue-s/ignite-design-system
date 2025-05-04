@@ -1,4 +1,4 @@
-import { globalStyles } from "@ignite-ui/react";
+import { globalStyles } from "@gustavo-rodrigues-ignite-ui/react";
 import React from "react";
 
 /** @type { import('@storybook/react').Preview } */

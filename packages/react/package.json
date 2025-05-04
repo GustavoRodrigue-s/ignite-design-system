@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@gustavo-rodrigues-ignite-ui/react",
   "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gustavo-rodrigues-ignite-ui/eslint-config": "*",
+    "@gustavo-rodrigues-ignite-ui/tokens": "*",
+    "@gustavo-rodrigues-ignite-ui/ts-config": "*",
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.1",
     "react": "^19.1.0",

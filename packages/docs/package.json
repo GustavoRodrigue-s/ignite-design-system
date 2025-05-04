@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@gustavo-rodrigues-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -30,9 +30,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@gustavo-rodrigues-ignite-ui/eslint-config": "*",
+    "@gustavo-rodrigues-ignite-ui/react": "*",
+    "@gustavo-rodrigues-ignite-ui/tokens": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^19.1.0",

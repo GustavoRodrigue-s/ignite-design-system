@@ -1,4 +1,4 @@
-# @ignite-ui/eslint-config
+# @gustavo-rodrigues-ignite-ui/eslint-config
 
 ## 2.0.0
 

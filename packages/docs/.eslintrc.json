@@ -1,4 +1,4 @@
 {
-  "extends": "@ignite-ui/eslint-config",
+  "extends": "@gustavo-rodrigues-ignite-ui/eslint-config",
   "include": ["src"]
 }
